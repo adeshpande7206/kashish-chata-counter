@@ -25,9 +25,9 @@ body {
 
 @media (max-width: 768px) {
   .chata-wrapper {
-    height: 60vh;
+    height: 45vh;
   }
   .chata-number {
-    height: 15vh;
+    height: 10vh;
   }
 }
